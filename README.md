@@ -8,7 +8,7 @@ Mimics linking to database system and could be easily linked to one.
 **1. Clone the application**
 
 ```bash
-https://github.com/
+https://github.com/NotTheBest/SpringBootDemoAPI.git
 ```
 
 **2. Build and run the app using maven**
