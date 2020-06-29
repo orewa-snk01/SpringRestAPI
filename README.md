@@ -1,6 +1,6 @@
-# API with Spring Boot :seedling:
+# RESTful API with Spring Boot :seedling:
 
-My first attempt at using __Spring Boot__. Features an __API__ with __CRUD__ operations (Get, Post, Put, Delete).
+My first attempt at using __Spring Boot__. Features a __RESTful API__ with __CRUD__ operations (Get, Post, Put, Delete).
 Mimics linking to database system and could be easily linked to one.
 
 ## Installation
